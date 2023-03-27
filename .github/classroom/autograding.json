@@ -5,7 +5,7 @@
       "setup": "",
       "run": "python main.py",
       "input": "",
-      "output": "oi, mundo!",
+      "output": "oi mundo!",
       "comparison": "included",
       "timeout": 1,
       "points": 100
